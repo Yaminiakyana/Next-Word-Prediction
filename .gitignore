@@ -1,0 +1,9 @@
+# Virtual environment
+lstm/
+
+# VS Code
+.vscode/
+
+# Large ML outputs
+*.keras
+*.ckpt
